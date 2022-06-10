@@ -8,4 +8,5 @@ main()
     cin>>i;
     int m=~(1<<i);
    cout<<a & m;
+   cout>>"thank you";
 }
